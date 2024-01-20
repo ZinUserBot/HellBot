@@ -37,8 +37,8 @@ if not "data.json" in os.listdir():
 		data = {"timename":"off","timebio":"off","timeprof":"off","bot":"on","hashtag":"off","bold":"off","italic":"off","delete":"off","code":"off","underline":"off","reverse":"off","part":"off","mention":"off","comment":"on","text":"first !","typing":"off","game":"off","voice":"off","video":"off","sticker":"off","crash":[],"enemy":[]}
 		put("data.json",data)
 
-api_id = 123456
-api_hash = 'abcdefghi....'
+api_id = 11640179
+api_hash = '5f8a5bec702456bb18d818d16e12806d'
 
 session_name = 'self'
 
